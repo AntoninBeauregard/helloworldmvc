@@ -1,4 +1,4 @@
-package org.helloworldmvc.Contract;
+package org.helloworldmvc.contract;
 
 /**
  * Hello world!
