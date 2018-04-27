@@ -13,6 +13,6 @@ public class Controller {
 	}
 	
 	public void run() {
-		this.view.displayMessage(this.model.getHelloWorld());
+		System.out.println(this.view.displayMessage(this.model.getHelloWorld()));
 	}
 }
